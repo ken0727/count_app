@@ -1,0 +1,2 @@
+class ButtonPress < ApplicationRecord
+end
